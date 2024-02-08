@@ -13,7 +13,7 @@ library(outliers)
 library(EnvStats)
 
 #loading data
-z17 <- read.table("https://web.sgh.waw.pl/~akorczy/files/abappm/data/t1/z17.csv", sep=",", header = TRUE)
+z17 <- read.table("https://URL_data_file.csv", sep=",", header = TRUE)
 
 #checking basic patterns, statistics -----------------------------
 
